@@ -1,0 +1,12 @@
+{
+  "name": "ambient-filename",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "tsc"
+  },
+  "license": "GPLv3",
+  "devDependencies": {
+    "typescript": "3.3.0-dev.20181122"
+  }
+}
